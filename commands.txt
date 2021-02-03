@@ -1,0 +1,6 @@
+git merge --squash feature  //  to merge feature branch  in the master branch 
+
+
+git push origin --delete test   // to delete test branch from origin 
+
+git checkout --track origin/test // to track the remote test branch  
